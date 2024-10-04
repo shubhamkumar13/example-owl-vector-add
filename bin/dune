@@ -1,0 +1,5 @@
+(executable
+ (public_name neural_net)
+ (name main)
+ (modes exe byte)
+ (libraries neural_net owl rresult))
